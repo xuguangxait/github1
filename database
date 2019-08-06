@@ -1,0 +1,1 @@
+select username,uid,gid,(uid+gid)/2 pjz from user;
